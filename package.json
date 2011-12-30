@@ -1,0 +1,15 @@
+{
+  "author": "Johnny Honestly <mostmodernist@gmail.com>",
+  "name": "hillbilly",
+  "description": "When did what now?",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index",
+  "engines": {
+    "node": "0.6.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
